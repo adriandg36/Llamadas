@@ -18,3 +18,5 @@ EN la carpeta denominada javadoc se encuentran todos los archivos de documentaci
 
 # Finalidad del repositorio
 La finalidad del repositorio es el almacenamiento del programa java para la gestión de llamadas telefonicas y su software de elaboración de la correspondiente factura del servicio
+
+![image](https://user-images.githubusercontent.com/93772754/160284668-8e7b817d-24c4-4fa1-bf63-8f2d290e0631.png)
